@@ -1,0 +1,23 @@
+﻿
+git ad
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarterFile", "00_HelloWorld\StarterFile.csproj", "{585ACF66-23B2-4091-A851-88A18B7D1AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585ACF66-23B2-4091-A851-88A18B7D1AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585ACF66-23B2-4091-A851-88A18B7D1AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585ACF66-23B2-4091-A851-88A18B7D1AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585ACF66-23B2-4091-A851-88A18B7D1AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
